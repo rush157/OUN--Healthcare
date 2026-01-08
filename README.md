@@ -81,8 +81,8 @@ This project can be easily deployed on **Vercel**:
 
 ## 👩‍💻 Author
 
-**Anusha**
-GitHub: [https://github.com/Anusha180805](https://github.com/Anusha180805)
+**Rushitha**
+GitHub: [https://https://github.com/rush157](https://https://github.com/rush157)
 
 ## 📄 License
 
